@@ -1,0 +1,1 @@
+# spacmacs-dot-file
